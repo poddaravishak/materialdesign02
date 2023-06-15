@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.eterces.material_design02'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.eterces.material_design02"
